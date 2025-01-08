@@ -1,7 +1,7 @@
 # GetGrass Auto Farmer
 GetGrass.io Auto Farmer | Automate Farming Grass use Python and Proxies.
 ## Tools and components required
-1. GetGrass.io Account UserID | Register: [https://app.getgrass.io](https://app.getgrass.io/register/?referralCode=PnmuSjrqxyxvZsk)
+1. GetGrass.io Account UserID | Register: [https://app.getgrass.io](https://app.getgrass.io/register/?referralCode=raNGAslYSsfvvPh)
 2. Proxies
 3. VPS or RDP (OPTIONAL)
 4. Python version 3.10 or Latest
@@ -9,7 +9,6 @@ GetGrass.io Auto Farmer | Automate Farming Grass use Python and Proxies.
 - Paid Proxies Static Residental: 
 1. [Shopee](https://shopee.co.id/product/255435623/26271161340/)
 2. [Chat Telegram](https://t.me/mhuehe)
-- Paid Premium Static Residental:
 
 # [Tutorial](https://youtu.be/Vys96CKFLEw?si=1laHwLcxoodp0CC_)
 
