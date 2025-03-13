@@ -1,7 +1,4 @@
-fake_useragent
-loguru
-websockets_proxy
-websockets==12.0
-requests
-colorama
-aiohttp
+aiofiles==23.1.0
+colorama==0.4.6
+loguru==0.6.0
+websockets-proxy
