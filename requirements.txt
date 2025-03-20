@@ -2,3 +2,10 @@ aiofiles==23.1.0
 colorama==0.4.6
 loguru==0.6.0
 websockets-proxy
+aiohttp
+aiofiles
+colorama
+loguru
+websockets_proxy
+pycryptodome
+crypto
